@@ -1,7 +1,7 @@
 using System.IO;
 using System.Runtime.Serialization.Json;
 
-namespace PlaceHolderSDK
+namespace PlaceHolderSDK.Utils
 {
     internal static class JsonUtils
     {
